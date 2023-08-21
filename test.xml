@@ -1,26 +1,13 @@
-1
 <?xml version='1.0' encoding='iso-8859-1'?>
-2
 <mail>
-3
     <de>stephane.crozat@utc.fr</de>
-4
     <a>fabrice.issac@utc.fr</a>
-5
     <objet>Demande d'information</objet>
-6
     <date>01-03-2001</date>
-7
     <corps>
-8
         <paragraphe>Bonjour Fabrice,</paragraphe>
-9
         <paragraphe>Peux tu m'expliquer ce qu'est le langage XML ?</paragraphe>
-10
         <paragraphe>Il me faudrait en effet ton avis éclairé sur le sujet.</paragraphe>
-11
         <paragraphe>J'attends ta réponse, à bientôt</paragraphe>
-12
     </corps>
-13
 </mail>
